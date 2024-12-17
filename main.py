@@ -1,3 +1,6 @@
+# File: main.py
+# Main Application File for MindMap Pro
+
 import streamlit as st
 import pandas as pd
 import networkx as nx
